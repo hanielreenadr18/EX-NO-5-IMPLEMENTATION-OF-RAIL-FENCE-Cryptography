@@ -1,5 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
-
+## NAME: HANIEL REENA D R
+## REGNO: 2305001008
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
 
@@ -20,7 +21,7 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 ## PROGRAM
-```
+```python
 #include <stdio.h>
 #include <string.h>
 
